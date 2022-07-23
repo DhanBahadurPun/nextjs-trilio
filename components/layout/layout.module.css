@@ -1,0 +1,14 @@
+.container {
+  background-color: #faf9f9;
+}
+
+.content {
+  display: flex;
+}
+
+.hotel-view {
+  background-color: #faf9f9;
+
+  flex: 1;
+  height: 89vh;
+}
